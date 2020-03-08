@@ -6,11 +6,8 @@ site_author: MkDocs Team
 repo_url: https://github.com/mkdocs/mkdocs/
 edit_uri: ""
 
- 
-theme:  
 
- 
-theme: readthedocs
+theme:
     name: readthedocs 
     highlightjs: true 
     hljs_languages: 
